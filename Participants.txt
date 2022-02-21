@@ -1,2 +1,14 @@
 1. Innocent Akpareva - Project Lead(PL)
+<<<<<<< HEAD
 2. Tapendra Kumar - Member
+=======
+2. Ajay Kumar - Assistant Project Lead (APL)
+3. Ufuoma Ejite - Query Analyst (QA)
+4. Roseline Ezinne AKPA
+5. Imam Ibrahim Abiodun - Memeber
+6. Tapendra Kumar - Member
+7. Enah Abel - Member
+8. Madhu Pincha Jain - Member
+9. Blessings Oyewole - Member
+10. Rushikesh Khandare - Member
+>>>>>>> myfriend/main
