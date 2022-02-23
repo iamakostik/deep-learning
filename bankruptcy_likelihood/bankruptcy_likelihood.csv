@@ -1,0 +1,1550 @@
+,Symbol,Year,Altman Z-Score,Bankruptcy Likelihood
+0,LLY,2013,3.43651,safe
+1,LLY,2012,3.21448,safe
+2,LLY,2014,3.27467,safe
+3,LLY,2015,3.77329,safe
+4,LLL,2013,1.70626,bankruptcy imminent
+5,LLL,2012,1.51766,bankruptcy imminent
+6,LLL,2014,1.91064,grey zone
+7,LLL,2015,1.68159,bankruptcy imminent
+8,INTU,2013,8.42155,safe
+9,INTU,2015,9.50245,safe
+10,INTU,2014,9.63804,safe
+11,INTU,2016,9.06773,safe
+12,CAT,2013,1.52442,bankruptcy imminent
+13,CAT,2015,1.3446,bankruptcy imminent
+14,CAT,2014,1.28481,bankruptcy imminent
+15,AMP,2013,0.25231,bankruptcy imminent
+16,AMP,2012,0.19905,bankruptcy imminent
+17,AMP,2014,0.27771,bankruptcy imminent
+18,AMP,2015,0.25987,bankruptcy imminent
+19,TDC,2013,5.60982,safe
+20,TDC,2012,6.75586,safe
+21,TDC,2014,4.14386,safe
+22,TDC,2015,1.70282,bankruptcy imminent
+23,VRSK,2013,5.01494,safe
+24,VRSK,2012,3.74698,safe
+25,VRSK,2014,4.8048,safe
+26,VRSK,2015,2.69759,grey zone
+27,STI,2013,0.24407,bankruptcy imminent
+28,STI,2012,0.24227,bankruptcy imminent
+29,STI,2014,0.2534,bankruptcy imminent
+30,STI,2015,0.26827,bankruptcy imminent
+31,CPB,2013,2.02263,grey zone
+32,CPB,2015,2.14831,grey zone
+33,CPB,2014,2.23813,grey zone
+34,CPB,2016,2.69459,grey zone
+35,LEG,2013,3.14336,safe
+36,LEG,2012,2.88557,grey zone
+37,LEG,2014,3.4685,safe
+38,LEG,2015,3.89501,safe
+39,INTC,2013,3.55002,safe
+40,INTC,2015,3.79092,safe
+41,INTC,2014,4.37981,safe
+42,HPE,2016,0.89987,bankruptcy imminent
+43,PFE,2013,2.48815,grey zone
+44,PFE,2012,1.9903,grey zone
+45,PFE,2014,2.4034,grey zone
+46,PFE,2015,2.13131,grey zone
+47,MJN,2013,5.43995,safe
+48,MJN,2012,4.40711,safe
+49,MJN,2014,6.1504,safe
+50,MJN,2015,3.82343,safe
+51,XRAY,2013,3.06166,safe
+52,XRAY,2012,2.5432,grey zone
+53,XRAY,2014,3.67506,safe
+54,XRAY,2015,4.35325,safe
+55,PH,2013,2.8804,grey zone
+56,PH,2015,3.35747,safe
+57,PH,2014,3.45391,safe
+58,PH,2016,3.1075,safe
+59,FISV,2013,3.04002,safe
+60,FISV,2012,2.16848,grey zone
+61,FISV,2014,3.39636,safe
+62,FISV,2015,3.67716,safe
+63,HRB,2013,2.66483,grey zone
+64,HRB,2015,3.47434,safe
+65,HRB,2014,2.92704,grey zone
+66,HRB,2016,2.21955,grey zone
+67,ALL,2013,0.66429,bankruptcy imminent
+68,ALL,2012,0.57914,bankruptcy imminent
+69,ALL,2014,0.85434,bankruptcy imminent
+70,ALL,2015,0.83385,bankruptcy imminent
+71,KSS,2013,2.86594,grey zone
+72,KSS,2015,2.96319,grey zone
+73,KSS,2014,2.82212,grey zone
+74,KSS,2016,2.85117,grey zone
+75,LLTC,2013,5.59978,safe
+76,LLTC,2015,23.57802,safe
+77,LLTC,2014,22.49238,safe
+78,LLTC,2016,25.11287,safe
+79,DG,2013,2.90032,grey zone
+80,DG,2015,3.57628,safe
+81,DG,2014,3.28905,safe
+82,DG,2016,3.61492,safe
+83,NEE,2013,0.78931,bankruptcy imminent
+84,NEE,2012,0.72863,bankruptcy imminent
+85,NEE,2014,0.93768,bankruptcy imminent
+86,NEE,2015,0.88555,bankruptcy imminent
+87,CB,2013,0.70776,bankruptcy imminent
+88,CB,2012,0.53982,bankruptcy imminent
+89,CB,2014,0.7235,bankruptcy imminent
+90,CB,2015,0.716,bankruptcy imminent
+91,AME,2013,4.13422,safe
+92,AME,2012,3.3365,safe
+93,AME,2014,3.8307,safe
+94,AME,2015,3.71892,safe
+95,SPGI,2013,5.79402,safe
+96,SPGI,2015,4.54263,safe
+97,SPGI,2014,4.53209,safe
+98,ULTA,2013,9.54316,safe
+99,ULTA,2015,8.98577,safe
+100,ADM,2013,1.75824,bankruptcy imminent
+101,ADM,2015,1.71166,bankruptcy imminent
+102,ADM,2014,1.9241,grey zone
+103,XL,2013,0.28343,bankruptcy imminent
+104,XL,2012,0.209,bankruptcy imminent
+105,XL,2014,0.22191,bankruptcy imminent
+106,XL,2015,0.25461,bankruptcy imminent
+107,MU,2013,1.41281,bankruptcy imminent
+108,MU,2015,1.8917,grey zone
+109,MU,2014,2.75036,grey zone
+110,MU,2016,1.17498,bankruptcy imminent
+111,SYY,2013,3.73568,safe
+112,SYY,2015,2.12331,grey zone
+113,SYY,2014,3.23703,safe
+114,SYY,2016,2.81542,grey zone
+115,AMAT,2013,4.57965,safe
+116,AMAT,2015,3.68715,safe
+117,AMAT,2014,5.11248,safe
+118,AMAT,2016,4.97234,safe
+119,DRI,2013,1.14853,bankruptcy imminent
+120,DRI,2015,1.79098,bankruptcy imminent
+121,DRI,2014,1.22504,bankruptcy imminent
+122,DRI,2016,2.49413,grey zone
+123,WYNN,2013,2.15776,grey zone
+124,WYNN,2012,1.63813,bankruptcy imminent
+125,WYNN,2014,1.73055,bankruptcy imminent
+126,WYNN,2015,0.79179,bankruptcy imminent
+127,SWKS,2013,13.27998,safe
+128,SWKS,2015,19.05259,safe
+129,SWKS,2014,15.60604,safe
+130,SWKS,2016,29.93294,safe
+131,EW,2013,4.44784,safe
+132,EW,2012,6.61602,safe
+133,EW,2014,6.15016,safe
+134,EW,2015,8.89725,safe
+135,ALXN,2013,18.1223,safe
+136,ALXN,2015,5.5006,safe
+137,ALXN,2014,26.22437,safe
+138,FB,2013,34.17443,safe
+139,FB,2015,35.14568,safe
+140,FB,2014,32.63506,safe
+141,OXY,2013,2.97392,grey zone
+142,OXY,2012,2.70002,grey zone
+143,OXY,2014,2.94121,grey zone
+144,OXY,2015,1.84652,grey zone
+145,MRO,2013,1.78434,bankruptcy imminent
+146,MRO,2012,1.67307,bankruptcy imminent
+147,MRO,2014,1.69029,bankruptcy imminent
+148,MRO,2015,0.80655,bankruptcy imminent
+149,AKAM,2013,15.38485,safe
+150,AKAM,2012,16.7021,safe
+151,AKAM,2014,6.69093,safe
+152,AKAM,2015,5.69364,safe
+153,IP,2013,1.19972,bankruptcy imminent
+154,IP,2012,0.97398,bankruptcy imminent
+155,IP,2014,1.21708,bankruptcy imminent
+156,IP,2015,0.9678,bankruptcy imminent
+157,ZION,2013,0.16261,bankruptcy imminent
+158,ZION,2012,0.19801,bankruptcy imminent
+159,ZION,2014,0.19659,bankruptcy imminent
+160,ZION,2015,0.1826,bankruptcy imminent
+161,NBL,2013,2.1593,grey zone
+162,NBL,2015,0.63551,bankruptcy imminent
+163,NBL,2014,1.63979,bankruptcy imminent
+164,HOG,2013,3.32892,safe
+165,HOG,2012,2.93765,grey zone
+166,HOG,2014,3.30079,safe
+167,HOG,2015,2.58698,grey zone
+168,FSLR,2013,2.27132,grey zone
+169,FSLR,2012,1.28112,bankruptcy imminent
+170,FSLR,2014,2.63235,grey zone
+171,FSLR,2015,3.45548,safe
+172,ROK,2013,5.06986,safe
+173,ROK,2015,4.46771,safe
+174,ROK,2014,4.96185,safe
+175,ROK,2016,4.04025,safe
+176,TEL,2013,1.9322,grey zone
+177,TEL,2015,2.34131,grey zone
+178,TEL,2014,2.27058,grey zone
+179,TEL,2016,2.68087,grey zone
+180,NVDA,2013,4.73416,safe
+181,NVDA,2015,4.47561,safe
+182,NVDA,2014,3.70785,safe
+183,NVDA,2016,5.15615,safe
+184,BA,2013,1.75057,bankruptcy imminent
+185,BA,2015,1.77339,bankruptcy imminent
+186,BA,2014,1.77493,bankruptcy imminent
+187,HSIC,2013,3.70754,safe
+188,HSIC,2012,3.13585,safe
+189,HSIC,2014,3.66551,safe
+190,HSIC,2015,3.70474,safe
+191,CTL,2013,0.48481,bankruptcy imminent
+192,CTL,2012,0.65043,bankruptcy imminent
+193,CTL,2014,0.60075,bankruptcy imminent
+194,CTL,2015,0.46091,bankruptcy imminent
+195,MLM,2013,2.57159,grey zone
+196,MLM,2012,2.38717,grey zone
+197,MLM,2014,1.82492,grey zone
+198,MLM,2015,2.45552,grey zone
+199,CTSH,2013,7.12601,safe
+200,CTSH,2012,6.57266,safe
+201,CTSH,2014,7.15422,safe
+202,CTSH,2015,7.95854,safe
+203,AIZ,2013,0.42703,bankruptcy imminent
+204,AIZ,2015,0.38343,bankruptcy imminent
+205,AIZ,2014,0.40964,bankruptcy imminent
+206,BLL,2013,1.86273,grey zone
+207,BLL,2012,1.81592,grey zone
+208,BLL,2014,2.14314,grey zone
+209,BLL,2015,1.59018,bankruptcy imminent
+210,DVN,2013,1.20143,bankruptcy imminent
+211,DVN,2015,-1.59961,bankruptcy imminent
+212,DVN,2014,1.45177,bankruptcy imminent
+213,SYMC,2013,1.4919,bankruptcy imminent
+214,SYMC,2015,1.59452,bankruptcy imminent
+215,SYMC,2014,1.27626,bankruptcy imminent
+216,SYMC,2016,1.40184,bankruptcy imminent
+217,EXPE,2013,1.3737,bankruptcy imminent
+218,EXPE,2015,1.265,bankruptcy imminent
+219,EXPE,2014,1.38436,bankruptcy imminent
+220,CHTR,2013,0.43865,bankruptcy imminent
+221,CHTR,2015,0.27231,bankruptcy imminent
+222,CHTR,2014,0.41229,bankruptcy imminent
+223,JWN,2013,2.52903,grey zone
+224,JWN,2015,2.49692,grey zone
+225,JWN,2014,2.37951,grey zone
+226,JWN,2016,1.54075,bankruptcy imminent
+227,ABT,2013,3.33626,safe
+228,ABT,2012,1.66811,bankruptcy imminent
+229,ABT,2014,3.32907,safe
+230,ABT,2015,3.47427,safe
+231,CTAS,2013,3.78884,safe
+232,CTAS,2015,5.29517,safe
+233,CTAS,2014,4.27011,safe
+234,CTAS,2016,5.59187,safe
+235,CXO,2013,1.60715,bankruptcy imminent
+236,CXO,2012,1.51708,bankruptcy imminent
+237,CXO,2014,1.60028,bankruptcy imminent
+238,CXO,2015,1.62082,bankruptcy imminent
+239,EXC,2013,1.23263,bankruptcy imminent
+240,PYPL,2015,2.47783,grey zone
+241,PBI,2013,1.96116,grey zone
+242,PBI,2012,1.51428,bankruptcy imminent
+243,PBI,2014,2.0754,grey zone
+244,PBI,2015,2.18243,grey zone
+245,MAS,2013,1.52252,bankruptcy imminent
+246,MAS,2015,1.89994,grey zone
+247,MAS,2014,1.64346,bankruptcy imminent
+248,SWN,2013,2.95824,grey zone
+249,SWN,2012,1.87622,grey zone
+250,SWN,2014,0.96955,bankruptcy imminent
+251,HST,2013,4.31753,safe
+252,HST,2012,1.28098,bankruptcy imminent
+253,HST,2014,6.6512,safe
+254,HST,2015,5.17987,safe
+255,MUR,2013,1.80208,bankruptcy imminent
+256,MUR,2012,1.63806,bankruptcy imminent
+257,MUR,2014,1.70383,bankruptcy imminent
+258,MUR,2015,0.23621,bankruptcy imminent
+259,ROST,2013,4.15773,safe
+260,ROST,2015,4.32966,safe
+261,ROST,2014,4.40028,safe
+262,ROST,2016,7.77286,safe
+263,CMI,2013,4.02798,safe
+264,CMI,2015,3.09871,safe
+265,CMI,2014,3.85886,safe
+266,SCHW,2013,0.31706,bankruptcy imminent
+267,SCHW,2012,0.24676,bankruptcy imminent
+268,SCHW,2014,0.33835,bankruptcy imminent
+269,SCHW,2015,0.31157,bankruptcy imminent
+270,LYB,2013,3.12161,safe
+271,LYB,2012,2.62742,grey zone
+272,LYB,2014,3.1152,safe
+273,LYB,2015,3.37084,safe
+274,HCN,2013,1.24739,bankruptcy imminent
+275,HCN,2012,1.03221,bankruptcy imminent
+276,HCN,2014,1.13271,bankruptcy imminent
+277,HCN,2015,0.82875,bankruptcy imminent
+278,CVX,2013,2.94831,grey zone
+279,CVX,2012,3.11246,safe
+280,CVX,2014,2.61385,grey zone
+281,CVX,2015,2.00494,grey zone
+282,ITW,2013,4.03978,safe
+283,ITW,2015,4.68269,safe
+284,ITW,2014,4.53136,safe
+285,AXP,2013,0.87473,bankruptcy imminent
+286,AXP,2012,0.69265,bankruptcy imminent
+287,EXR,2013,2.41188,grey zone
+288,EXR,2012,2.37443,grey zone
+289,EXR,2014,3.31227,safe
+290,EXR,2015,3.42309,safe
+291,JEC,2013,2.92321,grey zone
+292,JEC,2015,1.99477,grey zone
+293,JEC,2014,2.17995,grey zone
+294,JEC,2016,2.39414,grey zone
+295,VTR,2013,0.95382,bankruptcy imminent
+296,VTR,2015,0.86961,bankruptcy imminent
+297,VTR,2014,1.02161,bankruptcy imminent
+298,R,2013,0.79735,bankruptcy imminent
+299,R,2015,0.62541,bankruptcy imminent
+300,R,2014,0.83014,bankruptcy imminent
+301,MMC,2013,3.37738,safe
+302,MMC,2012,2.71524,grey zone
+303,MMC,2014,3.38934,safe
+304,MMC,2015,3.22891,safe
+305,GRMN,2013,5.98014,safe
+306,GRMN,2012,5.04197,safe
+307,GRMN,2014,6.37527,safe
+308,GRMN,2015,5.16975,safe
+309,CERN,2013,14.28228,safe
+310,CERN,2015,16.08056,safe
+311,CERN,2016,9.29906,safe
+312,SIG,2013,4.56866,safe
+313,SIG,2014,5.00738,safe
+314,SIG,2016,3.64791,safe
+315,FE,2013,0.387,bankruptcy imminent
+316,FE,2012,0.51816,bankruptcy imminent
+317,FE,2015,0.41946,bankruptcy imminent
+318,UTX,2013,2.13119,grey zone
+319,UTX,2015,2.03667,grey zone
+320,UTX,2014,2.22512,grey zone
+321,OMC,2013,1.45155,bankruptcy imminent
+322,OMC,2015,1.40518,bankruptcy imminent
+323,OMC,2014,1.54591,bankruptcy imminent
+324,MTB,2013,0.35454,bankruptcy imminent
+325,MTB,2012,0.31983,bankruptcy imminent
+326,MTB,2014,0.33153,bankruptcy imminent
+327,MTB,2015,0.27273,bankruptcy imminent
+328,TSO,2013,1.47788,bankruptcy imminent
+329,TSO,2012,1.89612,grey zone
+330,TSO,2014,1.49743,bankruptcy imminent
+331,TSO,2015,2.07714,grey zone
+332,CNP,2013,0.52656,bankruptcy imminent
+333,CNP,2012,0.43516,bankruptcy imminent
+334,CNP,2014,0.55853,bankruptcy imminent
+335,CNP,2015,0.19083,bankruptcy imminent
+336,ADS,2013,1.6584,bankruptcy imminent
+337,ADS,2012,1.24689,bankruptcy imminent
+338,ADS,2014,1.36905,bankruptcy imminent
+339,ADS,2015,1.45905,bankruptcy imminent
+340,IFF,2013,4.62879,safe
+341,IFF,2012,3.84317,safe
+342,IFF,2014,4.97248,safe
+343,IFF,2015,4.9688,safe
+344,CAH,2013,1.09371,bankruptcy imminent
+345,CAH,2015,1.47176,bankruptcy imminent
+346,CAH,2014,1.46238,bankruptcy imminent
+347,CAH,2016,1.2426,bankruptcy imminent
+348,OKE,2013,0.7969,bankruptcy imminent
+349,OKE,2012,0.77446,bankruptcy imminent
+350,OKE,2014,0.6523,bankruptcy imminent
+351,OKE,2015,0.39894,bankruptcy imminent
+352,PNW,2013,0.73496,bankruptcy imminent
+353,PNW,2012,0.77625,bankruptcy imminent
+354,PNW,2014,0.80454,bankruptcy imminent
+355,PNW,2015,0.76893,bankruptcy imminent
+356,LEN,2013,1.09547,bankruptcy imminent
+357,LEN,2015,1.38321,bankruptcy imminent
+358,LEN,2014,1.30242,bankruptcy imminent
+359,CCI,2013,1.09779,bankruptcy imminent
+360,CCI,2012,0.92446,bankruptcy imminent
+361,CCI,2014,1.21643,bankruptcy imminent
+362,CCI,2015,1.20347,bankruptcy imminent
+363,AMGN,2013,1.75613,bankruptcy imminent
+364,AMGN,2015,2.65129,grey zone
+365,AMGN,2014,2.45785,grey zone
+366,BDX,2013,3.87702,safe
+367,BDX,2015,1.77919,bankruptcy imminent
+368,BDX,2014,4.13384,safe
+369,BDX,2016,2.37189,grey zone
+370,SPG,2013,1.24282,bankruptcy imminent
+371,SPG,2012,1.35167,bankruptcy imminent
+372,SPG,2014,1.71608,bankruptcy imminent
+373,SPG,2015,1.7404,bankruptcy imminent
+374,CSX,2015,1.60848,bankruptcy imminent
+375,CSX,2014,1.9483,grey zone
+376,EL,2013,7.07175,safe
+377,EL,2015,7.31567,safe
+378,EL,2014,7.49437,safe
+379,EL,2016,6.33417,safe
+380,WU,2013,0.85373,bankruptcy imminent
+381,WU,2012,0.85185,bankruptcy imminent
+382,WU,2014,0.87996,bankruptcy imminent
+383,WU,2015,0.90673,bankruptcy imminent
+384,FLIR,2013,5.46362,safe
+385,FLIR,2012,5.4332,safe
+386,FLIR,2014,5.71153,safe
+387,FLIR,2015,5.05892,safe
+388,SO,2013,0.69431,bankruptcy imminent
+389,SO,2012,0.76398,bankruptcy imminent
+390,SO,2014,0.70008,bankruptcy imminent
+391,SO,2015,0.62615,bankruptcy imminent
+392,D,2013,0.97928,bankruptcy imminent
+393,D,2012,0.82295,bankruptcy imminent
+394,D,2014,0.94061,bankruptcy imminent
+395,D,2015,0.81284,bankruptcy imminent
+396,ABC,2013,0.82408,bankruptcy imminent
+397,ABC,2015,0.6162,bankruptcy imminent
+398,ABC,2014,0.81851,bankruptcy imminent
+399,ABC,2016,0.55628,bankruptcy imminent
+400,VFC,2016,5.46417,safe
+401,VFC,2015,6.20453,safe
+402,AZO,2013,1.89993,grey zone
+403,AZO,2015,2.2599,grey zone
+404,AZO,2014,1.95974,grey zone
+405,AZO,2016,2.18038,grey zone
+406,SRE,2013,1.0139,bankruptcy imminent
+407,SRE,2012,0.83997,bankruptcy imminent
+408,SRE,2014,1.06033,bankruptcy imminent
+409,SRE,2015,0.95073,bankruptcy imminent
+410,GT,2013,1.02342,bankruptcy imminent
+411,GT,2015,1.27637,bankruptcy imminent
+412,GT,2014,1.17938,bankruptcy imminent
+413,ESS,2013,1.00923,bankruptcy imminent
+414,ESS,2012,1.06048,bankruptcy imminent
+415,ESS,2015,1.68238,bankruptcy imminent
+416,LRCX,2013,2.83913,grey zone
+417,LRCX,2015,3.26395,safe
+418,LRCX,2014,3.71418,safe
+419,LRCX,2016,2.75462,grey zone
+420,RHT,2013,5.45279,safe
+421,RHT,2015,4.06207,safe
+422,RHT,2014,5.30007,safe
+423,RHT,2016,3.4908,safe
+424,ALB,2013,3.13355,safe
+425,ALB,2012,3.61688,safe
+426,ALB,2014,1.85105,grey zone
+427,ALB,2015,1.07158,bankruptcy imminent
+428,ETR,2013,0.66069,bankruptcy imminent
+429,ETR,2012,0.64432,bankruptcy imminent
+430,ETR,2014,0.76141,bankruptcy imminent
+431,ETR,2015,0.51881,bankruptcy imminent
+432,TGT,2013,1.90995,grey zone
+433,TGT,2015,2.13348,grey zone
+434,TGT,2014,1.83399,grey zone
+435,TGT,2016,2.14748,grey zone
+436,NFX,2013,0.68568,bankruptcy imminent
+437,NFX,2012,0.16055,bankruptcy imminent
+438,NFX,2014,1.15416,bankruptcy imminent
+439,NFX,2015,-1.63619,bankruptcy imminent
+440,CELG,2013,4.22635,safe
+441,CELG,2015,3.82893,safe
+442,CELG,2014,6.62614,safe
+443,HD,2013,4.42269,safe
+444,HD,2015,5.10609,safe
+445,HD,2014,4.42684,safe
+446,HD,2016,5.12472,safe
+447,FCX,2013,0.99164,bankruptcy imminent
+448,FCX,2012,2.0025,grey zone
+449,FCX,2014,0.29192,bankruptcy imminent
+450,FCX,2015,-1.11109,bankruptcy imminent
+451,BCR,2013,3.66259,safe
+452,BCR,2015,3.03069,safe
+453,BCR,2014,3.16701,safe
+454,FLR,2013,3.26622,safe
+455,FLR,2015,2.24441,grey zone
+456,FLR,2014,2.6173,grey zone
+457,ARNC,2013,0.49754,bankruptcy imminent
+458,ARNC,2012,0.70501,bankruptcy imminent
+459,ARNC,2014,0.90221,bankruptcy imminent
+460,ARNC,2015,0.7112,bankruptcy imminent
+461,PX,2013,2.92608,grey zone
+462,PX,2012,2.88867,grey zone
+463,PX,2014,2.94863,grey zone
+464,PX,2015,2.73736,grey zone
+465,BIIB,2013,13.99689,safe
+466,BIIB,2015,6.23027,safe
+467,BIIB,2014,15.89719,safe
+468,WHR,2013,1.59913,bankruptcy imminent
+469,WHR,2015,1.27978,bankruptcy imminent
+470,WHR,2014,1.33157,bankruptcy imminent
+471,NWSA,2016,1.6876,bankruptcy imminent
+472,NWSA,2015,2.39758,grey zone
+473,NWSA,2014,2.60452,grey zone
+474,MYL,2014,1.78133,bankruptcy imminent
+475,T,2013,1.20187,bankruptcy imminent
+476,T,2012,1.04776,bankruptcy imminent
+477,T,2014,0.95466,bankruptcy imminent
+478,T,2015,0.7822,bankruptcy imminent
+479,MSFT,2013,4.14048,safe
+480,MSFT,2015,3.33924,safe
+481,MSFT,2014,3.78659,safe
+482,MSFT,2016,2.94892,grey zone
+483,CHRW,2013,5.53908,safe
+484,CHRW,2012,7.50411,safe
+485,CHRW,2014,5.55834,safe
+486,CHRW,2015,5.37281,safe
+487,AMG,2013,2.76691,grey zone
+488,AMG,2012,1.77823,bankruptcy imminent
+489,AMG,2014,2.45698,grey zone
+490,AMG,2015,2.21281,grey zone
+491,ZTS,2013,2.80649,grey zone
+492,ZTS,2015,3.03236,safe
+493,ZTS,2014,3.76168,safe
+494,IDXX,2013,5.29905,safe
+495,IDXX,2012,6.22316,safe
+496,IDXX,2014,4.35596,safe
+497,IDXX,2015,3.88111,safe
+498,C,2013,0.23067,bankruptcy imminent
+499,C,2012,0.19363,bankruptcy imminent
+500,C,2014,0.23654,bankruptcy imminent
+501,C,2015,0.26946,bankruptcy imminent
+502,KORS,2013,31.2161,safe
+503,KORS,2015,22.23002,safe
+504,KORS,2014,30.92827,safe
+505,KORS,2016,15.44384,safe
+506,MPC,2013,1.54616,bankruptcy imminent
+507,MPC,2015,1.53231,bankruptcy imminent
+508,MPC,2014,1.54132,bankruptcy imminent
+509,MAA,2013,0.42083,bankruptcy imminent
+510,MAA,2012,0.76152,bankruptcy imminent
+511,MAA,2014,0.89407,bankruptcy imminent
+512,MAA,2015,1.23095,bankruptcy imminent
+513,BMY,2013,4.00737,safe
+514,BMY,2012,3.14364,safe
+515,BMY,2014,5.04831,safe
+516,BMY,2015,5.78378,safe
+517,UNM,2013,0.38831,bankruptcy imminent
+518,UNM,2012,0.31795,bankruptcy imminent
+519,UNM,2014,0.31066,bankruptcy imminent
+520,UNM,2015,0.36931,bankruptcy imminent
+521,SYF,2015,0.4651,bankruptcy imminent
+522,ZBH,2013,5.04241,safe
+523,ZBH,2012,4.28865,safe
+524,ZBH,2014,5.84899,safe
+525,ZBH,2015,1.42335,bankruptcy imminent
+526,TXT,2013,1.70098,bankruptcy imminent
+527,TXT,2012,1.34704,bankruptcy imminent
+528,TXT,2016,1.78818,bankruptcy imminent
+529,TXT,2015,1.65827,bankruptcy imminent
+530,APA,2013,1.53065,bankruptcy imminent
+531,APA,2012,1.39512,bankruptcy imminent
+532,APA,2014,0.78277,bankruptcy imminent
+533,APA,2015,-4.62871,bankruptcy imminent
+534,PPL,2013,0.7297,bankruptcy imminent
+535,PPL,2012,0.75927,bankruptcy imminent
+536,PPL,2014,0.80776,bankruptcy imminent
+537,PPL,2015,0.84196,bankruptcy imminent
+538,GIS,2013,2.32708,grey zone
+539,GIS,2015,2.33138,grey zone
+540,GIS,2014,2.42031,grey zone
+541,GIS,2016,2.63362,grey zone
+542,LUK,2013,0.68042,bankruptcy imminent
+543,LUK,2012,3.01169,safe
+544,LUK,2014,0.60774,bankruptcy imminent
+545,LUK,2015,0.62873,bankruptcy imminent
+546,DLPH,2013,2.32671,grey zone
+547,DLPH,2015,2.35553,grey zone
+548,DLPH,2014,2.5822,grey zone
+549,ETFC,2013,0.07857,bankruptcy imminent
+550,ETFC,2012,0.01712,bankruptcy imminent
+551,ETFC,2014,0.12781,bankruptcy imminent
+552,ETFC,2015,0.12948,bankruptcy imminent
+553,PCLN,2013,12.37005,safe
+554,PCLN,2012,9.46677,safe
+555,PCLN,2014,7.67932,safe
+556,PCLN,2015,6.31528,safe
+557,EXPD,2013,8.52385,safe
+558,EXPD,2012,8.01935,safe
+559,EXPD,2014,7.76201,safe
+560,EXPD,2015,8.71929,safe
+561,EA,2013,1.56578,bankruptcy imminent
+562,EA,2015,4.59245,safe
+563,EA,2014,1.76185,bankruptcy imminent
+564,EA,2016,4.65927,safe
+565,TGNA,2013,2.06086,grey zone
+566,TGNA,2012,2.91193,grey zone
+567,TGNA,2015,2.20913,grey zone
+568,LOW,2013,2.76059,grey zone
+569,LOW,2015,3.16656,safe
+570,LOW,2014,2.72207,grey zone
+571,LOW,2016,2.95871,grey zone
+572,HUM,2013,1.78662,bankruptcy imminent
+573,HUM,2015,2.09156,grey zone
+574,HUM,2014,1.87849,grey zone
+575,VLO,2013,1.72178,bankruptcy imminent
+576,VLO,2012,1.54189,bankruptcy imminent
+577,VLO,2014,2.02557,grey zone
+578,VLO,2015,2.47799,grey zone
+579,UDR,2013,0.7701,bankruptcy imminent
+580,UDR,2012,0.72614,bankruptcy imminent
+581,UDR,2014,0.92039,bankruptcy imminent
+582,UDR,2015,1.05504,bankruptcy imminent
+583,LB,2013,2.47143,grey zone
+584,LB,2015,3.52192,safe
+585,LB,2014,2.57927,grey zone
+586,LB,2016,3.53087,safe
+587,CBG,2013,1.58175,bankruptcy imminent
+588,CBG,2012,1.19753,bankruptcy imminent
+589,CBG,2014,2.01909,grey zone
+590,CBG,2015,1.43175,bankruptcy imminent
+591,HPQ,2013,0.88651,bankruptcy imminent
+592,HPQ,2014,0.88653,bankruptcy imminent
+593,HPQ,2016,0.84155,bankruptcy imminent
+594,HON,2013,2.86123,grey zone
+595,HON,2015,2.88804,grey zone
+596,HON,2014,3.14493,safe
+597,PFG,2013,0.10057,bankruptcy imminent
+598,PFG,2015,0.10507,bankruptcy imminent
+599,PFG,2014,0.10853,bankruptcy imminent
+600,DFS,2013,0.63597,bankruptcy imminent
+601,DFS,2012,0.56341,bankruptcy imminent
+602,DFS,2014,0.65883,bankruptcy imminent
+603,DFS,2015,0.60638,bankruptcy imminent
+604,WEC,2013,0.81099,bankruptcy imminent
+605,WEC,2012,0.75225,bankruptcy imminent
+606,WEC,2014,1.31202,bankruptcy imminent
+607,WEC,2015,0.75223,bankruptcy imminent
+608,HES,2013,2.09298,grey zone
+609,HES,2012,1.36378,bankruptcy imminent
+610,HES,2014,1.86629,grey zone
+611,HES,2015,0.94285,bankruptcy imminent
+612,XEL,2013,0.65786,bankruptcy imminent
+613,XEL,2012,0.67566,bankruptcy imminent
+614,XEL,2014,0.71405,bankruptcy imminent
+615,XEL,2015,0.67789,bankruptcy imminent
+616,CCL,2013,1.72962,bankruptcy imminent
+617,CCL,2015,2.32421,grey zone
+618,CCL,2014,2.02256,grey zone
+619,KIM,2013,1.25641,bankruptcy imminent
+620,KIM,2012,1.44688,bankruptcy imminent
+621,KIM,2014,1.28282,bankruptcy imminent
+622,KIM,2015,1.21096,bankruptcy imminent
+623,MON,2013,5.38685,safe
+624,MON,2015,3.49677,safe
+625,MON,2014,4.12977,safe
+626,MON,2016,3.25919,safe
+627,MCK,2013,1.35474,bankruptcy imminent
+628,MCK,2015,1.41881,bankruptcy imminent
+629,MCK,2014,1.20775,bankruptcy imminent
+630,MCK,2016,1.07257,bankruptcy imminent
+631,XOM,2013,3.84472,safe
+632,XOM,2012,3.99257,safe
+633,XOM,2014,3.65382,safe
+634,XOM,2015,3.2572,safe
+635,HIG,2013,0.11593,bankruptcy imminent
+636,HIG,2012,0.06476,bankruptcy imminent
+637,HIG,2014,0.14063,bankruptcy imminent
+638,HIG,2015,0.16209,bankruptcy imminent
+639,M,2013,1.94602,grey zone
+640,M,2015,2.35421,grey zone
+641,M,2014,2.15281,grey zone
+642,M,2016,1.76012,bankruptcy imminent
+643,CMA,2013,0.29487,bankruptcy imminent
+644,CMA,2015,0.27005,bankruptcy imminent
+645,CMA,2014,0.28587,bankruptcy imminent
+646,TRIP,2013,13.39792,safe
+647,TRIP,2015,12.01243,safe
+648,TRIP,2014,9.42813,safe
+649,EQIX,2013,1.33313,bankruptcy imminent
+650,EQIX,2012,1.78941,bankruptcy imminent
+651,EQIX,2014,1.53755,bankruptcy imminent
+652,EQIX,2015,1.59209,bankruptcy imminent
+653,WRK,2016,0.77767,bankruptcy imminent
+654,WRK,2015,0.72694,bankruptcy imminent
+655,GPN,2013,1.94898,grey zone
+656,GPN,2015,1.15512,bankruptcy imminent
+657,GPN,2014,1.54626,bankruptcy imminent
+658,GPN,2016,1.24023,bankruptcy imminent
+659,NOV,2013,2.69059,grey zone
+660,NOV,2012,2.69416,grey zone
+661,NOV,2014,2.58685,grey zone
+662,NOV,2015,1.61594,bankruptcy imminent
+663,PKI,2013,2.49013,grey zone
+664,PKI,2012,2.01183,grey zone
+665,PKI,2014,2.50825,grey zone
+666,PKI,2016,2.93262,grey zone
+667,PEP,2013,3.09343,safe
+668,PEP,2015,3.39794,safe
+669,PEP,2014,3.49883,safe
+670,WMB,2013,0.5869,bankruptcy imminent
+671,WMB,2012,0.57928,bankruptcy imminent
+672,WMB,2014,0.58603,bankruptcy imminent
+673,WMB,2015,-0.00826,bankruptcy imminent
+674,DVA,2013,1.28176,bankruptcy imminent
+675,DVA,2012,0.91336,bankruptcy imminent
+676,DVA,2014,1.52231,bankruptcy imminent
+677,DVA,2015,1.35094,bankruptcy imminent
+678,VRSN,2013,-7.88026,bankruptcy imminent
+679,VRSN,2012,-10.3616,bankruptcy imminent
+680,VRSN,2014,-11.31595,bankruptcy imminent
+681,VRSN,2015,-8.1625,bankruptcy imminent
+682,AAPL,2013,2.18753,grey zone
+683,AAPL,2015,3.67069,safe
+684,AAPL,2014,4.4249,safe
+685,AAPL,2016,3.10987,safe
+686,EFX,2013,3.85679,safe
+687,EFX,2012,2.92954,grey zone
+688,EFX,2014,4.01502,safe
+689,EFX,2015,5.50149,safe
+690,FRT,2013,1.44587,bankruptcy imminent
+691,FRT,2015,1.87754,grey zone
+692,FRT,2014,1.84355,grey zone
+693,PAYX,2013,2.93164,grey zone
+694,PAYX,2015,3.38825,safe
+695,PAYX,2014,3.02884,safe
+696,PAYX,2016,3.75269,safe
+697,IVZ,2013,1.70841,bankruptcy imminent
+698,IVZ,2012,1.40153,bankruptcy imminent
+699,IVZ,2014,1.73563,bankruptcy imminent
+700,IVZ,2015,1.26485,bankruptcy imminent
+701,COF,2013,0.31949,bankruptcy imminent
+702,COF,2012,0.24782,bankruptcy imminent
+703,COF,2014,0.33042,bankruptcy imminent
+704,COF,2015,0.29988,bankruptcy imminent
+705,DHR,2013,3.36228,safe
+706,DHR,2012,2.51777,grey zone
+707,DHR,2014,3.37099,safe
+708,DHR,2015,2.2178,grey zone
+709,GPS,2013,5.72066,safe
+710,GPS,2015,4.01514,safe
+711,GPS,2014,5.94272,safe
+712,GPS,2016,2.60173,grey zone
+713,EOG,2013,2.05005,grey zone
+714,EOG,2012,1.56248,bankruptcy imminent
+715,EOG,2014,3.0724,safe
+716,EOG,2015,1.49866,bankruptcy imminent
+717,JBHT,2013,5.22046,safe
+718,JBHT,2012,4.81254,safe
+719,JBHT,2014,4.82855,safe
+720,JBHT,2015,4.45316,safe
+721,QCOM,2013,9.18456,safe
+722,QCOM,2015,4.40315,safe
+723,QCOM,2014,10.01221,safe
+724,QCOM,2016,4.39476,safe
+725,MCO,2013,5.86507,safe
+726,MCO,2012,5.00673,safe
+727,MCO,2014,5.99103,safe
+728,MCO,2015,5.5697,safe
+729,APC,2013,1.30737,bankruptcy imminent
+730,APC,2015,-0.00426,bankruptcy imminent
+731,APC,2014,0.97836,bankruptcy imminent
+732,VZ,2013,1.04422,bankruptcy imminent
+733,VZ,2012,0.68791,bankruptcy imminent
+734,VZ,2014,0.9919,bankruptcy imminent
+735,VZ,2015,1.06762,bankruptcy imminent
+736,BHI,2013,2.52809,grey zone
+737,BHI,2015,2.15321,grey zone
+738,BHI,2014,2.70115,grey zone
+739,BAX,2013,1.81663,grey zone
+740,BAX,2012,2.53705,grey zone
+741,BAX,2014,1.82289,grey zone
+742,BAX,2015,2.25317,grey zone
+743,DAL,2013,0.75364,bankruptcy imminent
+744,DAL,2015,1.26506,bankruptcy imminent
+745,DAL,2014,0.80395,bankruptcy imminent
+746,PPG,2013,2.62085,grey zone
+747,PPG,2015,3.32602,safe
+748,PPG,2014,2.55837,grey zone
+749,IRM,2013,0.91937,bankruptcy imminent
+750,IRM,2012,1.04779,bankruptcy imminent
+751,IRM,2014,1.04719,bankruptcy imminent
+752,IRM,2015,0.73918,bankruptcy imminent
+753,HOLX,2013,-0.27386,bankruptcy imminent
+754,HOLX,2015,0.86996,bankruptcy imminent
+755,HOLX,2014,0.37504,bankruptcy imminent
+756,HOLX,2016,1.06972,bankruptcy imminent
+757,FMC,2013,3.05007,safe
+758,FMC,2012,3.37051,safe
+759,FMC,2014,2.58855,grey zone
+760,FMC,2015,1.83154,grey zone
+761,NSC,2013,1.70079,bankruptcy imminent
+762,NSC,2015,1.50311,bankruptcy imminent
+763,NSC,2014,1.90769,grey zone
+764,BBY,2016,2.22825,grey zone
+765,BBY,2012,1.87723,grey zone
+766,BBY,2014,1.91413,grey zone
+767,BBY,2015,2.20856,grey zone
+768,AIV,2013,-0.03914,bankruptcy imminent
+769,AIV,2012,0.13421,bankruptcy imminent
+770,AIV,2014,0.23337,bankruptcy imminent
+771,AIV,2015,0.42765,bankruptcy imminent
+772,IPG,2013,1.1674,bankruptcy imminent
+773,IPG,2012,1.09587,bankruptcy imminent
+774,IPG,2014,1.39241,bankruptcy imminent
+775,IPG,2015,1.46711,bankruptcy imminent
+776,CRM,2013,1.22128,bankruptcy imminent
+777,CRM,2015,3.26748,safe
+778,CRM,2014,3.51399,safe
+779,CRM,2016,3.71554,safe
+780,SLG,2013,2.46649,grey zone
+781,SLG,2012,0.9076,bankruptcy imminent
+782,SLG,2014,6.35914,safe
+783,SLG,2015,1.67035,bankruptcy imminent
+784,DUK,2013,0.61147,bankruptcy imminent
+785,DUK,2012,4.54872,safe
+786,DUK,2014,0.63969,bankruptcy imminent
+787,DUK,2015,0.53088,bankruptcy imminent
+788,XYL,2013,2.28869,grey zone
+789,XYL,2015,2.61786,grey zone
+790,XYL,2014,2.5367,grey zone
+791,SEE,2013,1.05227,bankruptcy imminent
+792,SEE,2015,1.24682,bankruptcy imminent
+793,SEE,2014,1.15439,bankruptcy imminent
+794,AIG,2013,0.27268,bankruptcy imminent
+795,AIG,2015,0.26913,bankruptcy imminent
+796,AIG,2014,0.3124,bankruptcy imminent
+797,HRS,2013,2.18846,grey zone
+798,HRS,2015,0.95277,bankruptcy imminent
+799,HRS,2014,2.90231,grey zone
+800,HRS,2016,1.2251,bankruptcy imminent
+801,ATVI,2013,2.52126,grey zone
+802,ATVI,2012,3.42613,safe
+803,ATVI,2014,2.1752,grey zone
+804,ATVI,2015,3.17919,safe
+805,XLNX,2013,4.86231,safe
+806,XLNX,2015,4.8213,safe
+807,XLNX,2014,5.35591,safe
+808,XLNX,2016,5.10201,safe
+809,EQR,2013,1.09706,bankruptcy imminent
+810,EQR,2012,1.25538,bankruptcy imminent
+811,EQR,2014,1.53019,bankruptcy imminent
+812,EQR,2015,1.73307,bankruptcy imminent
+813,TDG,2013,-19.03374,bankruptcy imminent
+814,TDG,2015,2.7722,grey zone
+815,TDG,2014,2.31806,grey zone
+816,TDG,2016,3.74257,safe
+817,BXP,2013,0.75564,bankruptcy imminent
+818,BXP,2012,1.06436,bankruptcy imminent
+819,BXP,2014,0.96705,bankruptcy imminent
+820,BXP,2015,1.09616,bankruptcy imminent
+821,HP,2013,4.11031,safe
+822,HP,2015,2.78117,grey zone
+823,HP,2014,5.10395,safe
+824,HP,2016,2.96433,grey zone
+825,MRK,2013,2.59696,grey zone
+826,MRK,2012,2.51147,grey zone
+827,MRK,2014,3.51999,safe
+828,MRK,2015,2.58505,grey zone
+829,DGX,2013,2.59089,grey zone
+830,DGX,2012,2.4871,grey zone
+831,DGX,2014,2.35628,grey zone
+832,DGX,2015,2.62826,grey zone
+833,FDX,2013,3.97247,safe
+834,FDX,2015,3.03304,safe
+835,FDX,2014,3.55185,safe
+836,FDX,2016,2.32257,grey zone
+837,RSG,2013,1.01936,bankruptcy imminent
+838,RSG,2015,1.20614,bankruptcy imminent
+839,RSG,2014,1.11651,bankruptcy imminent
+840,DD,2013,2.00839,grey zone
+841,DD,2015,2.21165,grey zone
+842,DD,2014,2.21662,grey zone
+843,TAP,2013,1.46743,bankruptcy imminent
+844,TAP,2015,2.74061,grey zone
+845,TAP,2014,1.98782,grey zone
+846,CINF,2013,0.92529,bankruptcy imminent
+847,CINF,2012,0.80806,bankruptcy imminent
+848,CINF,2014,0.8904,bankruptcy imminent
+849,CINF,2015,0.98289,bankruptcy imminent
+850,NLSN,2013,1.34843,bankruptcy imminent
+851,NLSN,2015,1.39388,bankruptcy imminent
+852,NLSN,2014,1.32224,bankruptcy imminent
+853,ILMN,2013,6.5459,safe
+854,ILMN,2014,9.42606,safe
+855,ILMN,2016,10.63344,safe
+856,COG,2013,4.34321,safe
+857,COG,2012,1.88266,grey zone
+858,COG,2014,2.75991,grey zone
+859,COG,2015,1.68419,bankruptcy imminent
+860,ADI,2013,7.89143,safe
+861,ADI,2015,42.70957,safe
+862,ADI,2014,27.30985,safe
+863,ADI,2016,14.1614,safe
+864,RCL,2013,0.96356,bankruptcy imminent
+865,RCL,2012,0.73263,bankruptcy imminent
+866,RCL,2014,1.36274,bankruptcy imminent
+867,RCL,2015,1.50494,bankruptcy imminent
+868,CAG,2013,1.16219,bankruptcy imminent
+869,CAG,2015,1.29334,bankruptcy imminent
+870,CAG,2014,1.1919,bankruptcy imminent
+871,CAG,2016,1.75459,bankruptcy imminent
+872,DIS,2013,3.31183,safe
+873,DIS,2015,3.95559,safe
+874,DIS,2014,3.86783,safe
+875,DIS,2016,3.49784,safe
+876,CTXS,2013,5.0727,safe
+877,CTXS,2015,3.45057,safe
+878,CTXS,2014,3.24542,safe
+879,CSRA,2016,0.78728,bankruptcy imminent
+880,URBN,2013,10.94201,safe
+881,URBN,2015,7.44827,safe
+882,URBN,2014,8.32791,safe
+883,URBN,2016,4.78317,safe
+884,JPM,2013,0.21032,bankruptcy imminent
+885,JPM,2012,0.1951,bankruptcy imminent
+886,JPM,2014,0.2094,bankruptcy imminent
+887,JPM,2015,0.24188,bankruptcy imminent
+888,GM,2013,0.87395,bankruptcy imminent
+889,GM,2015,0.55196,bankruptcy imminent
+890,GM,2014,0.72414,bankruptcy imminent
+891,SNI,2013,4.83723,safe
+892,SNI,2012,3.73747,safe
+893,SNI,2014,3.1439,safe
+894,SNI,2015,1.7598,bankruptcy imminent
+895,MDLZ,2013,1.47463,bankruptcy imminent
+896,MDLZ,2012,1.12675,bankruptcy imminent
+897,MDLZ,2014,1.49672,bankruptcy imminent
+898,MDLZ,2015,2.26156,grey zone
+899,HCA,2013,1.28414,bankruptcy imminent
+900,HCA,2015,1.57437,bankruptcy imminent
+901,HCA,2014,1.59287,bankruptcy imminent
+902,TMK,2013,0.61958,bankruptcy imminent
+903,TMK,2012,0.54101,bankruptcy imminent
+904,TMK,2014,0.64635,bankruptcy imminent
+905,TMK,2015,0.66678,bankruptcy imminent
+906,NFLX,2013,1.03623,bankruptcy imminent
+907,NFLX,2015,4.19968,safe
+908,NFLX,2014,1.02934,bankruptcy imminent
+909,MKC,2013,3.21919,safe
+910,MKC,2015,3.36665,safe
+911,MKC,2014,3.30749,safe
+912,FBHS,2013,3.67606,safe
+913,FBHS,2015,3.04716,safe
+914,FBHS,2014,3.27774,safe
+915,LMT,2013,1.93993,grey zone
+916,LMT,2015,1.60795,bankruptcy imminent
+917,LMT,2014,2.13012,grey zone
+918,GLW,2013,3.32049,safe
+919,GLW,2015,2.62765,grey zone
+920,GLW,2014,3.56999,safe
+921,CVS,2013,2.65185,grey zone
+922,CVS,2015,2.14643,grey zone
+923,CVS,2014,2.94289,grey zone
+924,WFM,2013,9.55985,safe
+925,WFM,2015,5.24049,safe
+926,WFM,2014,6.07285,safe
+927,WFM,2016,3.5921,safe
+928,PEG,2013,1.05719,bankruptcy imminent
+929,PEG,2012,1.0096,bankruptcy imminent
+930,PEG,2014,1.15846,bankruptcy imminent
+931,PEG,2015,1.08742,bankruptcy imminent
+932,SWK,2013,1.42204,bankruptcy imminent
+933,SWK,2016,1.97068,grey zone
+934,PSX,2013,2.02772,grey zone
+935,PSX,2015,2.27488,grey zone
+936,PSX,2014,2.05597,grey zone
+937,TXN,2013,6.62229,safe
+938,TXN,2012,4.96499,safe
+939,TXN,2014,8.54501,safe
+940,TXN,2015,9.47044,safe
+941,TSS,2013,3.04079,safe
+942,TSS,2012,6.10079,safe
+943,TSS,2014,3.20513,safe
+944,TSS,2015,4.19105,safe
+945,BAC,2013,0.18467,bankruptcy imminent
+946,BAC,2012,0.15535,bankruptcy imminent
+947,BAC,2014,0.18879,bankruptcy imminent
+948,EMR,2013,3.91648,safe
+949,EMR,2015,3.54122,safe
+950,EMR,2014,3.82602,safe
+951,EMR,2016,3.5764,safe
+952,XEC,2013,2.48527,grey zone
+953,XEC,2012,1.69904,bankruptcy imminent
+954,XEC,2014,2.09286,grey zone
+955,XEC,2015,-0.11181,bankruptcy imminent
+956,PNC,2013,0.28992,bankruptcy imminent
+957,PNC,2012,0.25231,bankruptcy imminent
+958,PNC,2014,0.29547,bankruptcy imminent
+959,PNC,2015,0.29593,bankruptcy imminent
+960,AJG,2013,1.29289,bankruptcy imminent
+961,AJG,2015,1.02415,bankruptcy imminent
+962,AJG,2014,1.07489,bankruptcy imminent
+963,FL,2013,4.77344,safe
+964,FL,2015,5.99503,safe
+965,FL,2014,5.07719,safe
+966,FL,2016,6.32925,safe
+967,AFL,2013,0.54295,bankruptcy imminent
+968,AFL,2012,0.42978,bankruptcy imminent
+969,AFL,2014,0.55454,bankruptcy imminent
+970,AFL,2015,0.55383,bankruptcy imminent
+971,COL,2013,3.43355,safe
+972,COL,2015,2.91406,grey zone
+973,COL,2014,2.83633,grey zone
+974,COL,2016,2.46589,grey zone
+975,CSCO,2013,3.18372,safe
+976,CSCO,2015,2.794,grey zone
+977,CSCO,2014,2.84466,grey zone
+978,CSCO,2016,2.80731,grey zone
+979,MMM,2013,5.9668,safe
+980,MMM,2015,5.21159,safe
+981,MMM,2014,6.28647,safe
+982,K,2013,2.49642,grey zone
+983,K,2012,1.96066,grey zone
+984,K,2016,2.02438,grey zone
+985,K,2015,2.16969,grey zone
+986,AMZN,2013,4.25771,safe
+987,AMZN,2015,4.37991,safe
+988,AMZN,2014,2.5774,grey zone
+989,KO,2013,3.57286,safe
+990,KO,2012,3.49366,safe
+991,KO,2014,3.32313,safe
+992,KO,2015,3.41757,safe
+993,CF,2013,1.73729,bankruptcy imminent
+994,CF,2012,2.05237,grey zone
+995,CF,2014,1.8654,grey zone
+996,CF,2015,1.2911,bankruptcy imminent
+997,YHOO,2013,7.69963,safe
+998,YHOO,2012,7.47883,safe
+999,YHOO,2014,2.199,grey zone
+1000,YHOO,2015,1.1548,bankruptcy imminent
+1001,DHI,2013,1.4403,bankruptcy imminent
+1002,DHI,2015,2.06259,grey zone
+1003,DHI,2014,1.5318,bankruptcy imminent
+1004,DHI,2016,2.38279,grey zone
+1005,SE,2013,0.83209,bankruptcy imminent
+1006,SE,2012,0.74285,bankruptcy imminent
+1007,SE,2014,0.85808,bankruptcy imminent
+1008,SE,2015,0.51496,bankruptcy imminent
+1009,FFIV,2013,7.70619,safe
+1010,FFIV,2015,7.16988,safe
+1011,FFIV,2014,8.70892,safe
+1012,FFIV,2016,6.56482,safe
+1013,TMO,2013,2.48961,grey zone
+1014,TMO,2012,1.94871,grey zone
+1015,TMO,2014,1.98968,grey zone
+1016,TMO,2015,2.46642,grey zone
+1017,NDAQ,2013,1.22689,bankruptcy imminent
+1018,NDAQ,2012,1.3783,bankruptcy imminent
+1019,NDAQ,2014,1.44143,bankruptcy imminent
+1020,NDAQ,2015,1.64952,bankruptcy imminent
+1021,KLAC,2013,5.03165,safe
+1022,KLAC,2015,2.41243,grey zone
+1023,KLAC,2014,5.84322,safe
+1024,KLAC,2016,3.10501,safe
+1025,ABBV,2013,3.39533,safe
+1026,ABBV,2015,1.94039,grey zone
+1027,ABBV,2014,3.30571,safe
+1028,DLTR,2013,8.09236,safe
+1029,DLTR,2015,7.79228,safe
+1030,DLTR,2014,6.82651,safe
+1031,DLTR,2016,1.7081,bankruptcy imminent
+1032,COST,2013,2.57328,grey zone
+1033,COST,2015,2.6514,grey zone
+1034,COST,2014,2.63083,grey zone
+1035,COST,2016,3.09412,safe
+1036,APD,2013,2.25164,grey zone
+1037,APD,2015,2.70668,grey zone
+1038,APD,2014,2.61926,grey zone
+1039,APD,2016,2.97915,grey zone
+1040,SRCL,2013,3.97607,safe
+1041,SRCL,2012,3.53427,safe
+1042,SRCL,2014,3.81083,safe
+1043,SRCL,2015,2.19941,grey zone
+1044,TRV,2013,0.78907,bankruptcy imminent
+1045,TRV,2015,0.90442,bankruptcy imminent
+1046,TRV,2014,0.86029,bankruptcy imminent
+1047,FAST,2013,31.37816,safe
+1048,FAST,2015,12.92607,safe
+1049,FAST,2014,22.32988,safe
+1050,FTR,2013,0.25643,bankruptcy imminent
+1051,FTR,2012,0.42493,bankruptcy imminent
+1052,FTR,2014,0.56484,bankruptcy imminent
+1053,FTR,2015,0.66125,bankruptcy imminent
+1054,UNH,2013,1.86699,grey zone
+1055,UNH,2015,1.66284,bankruptcy imminent
+1056,UNH,2014,2.03427,grey zone
+1057,AWK,2013,0.39182,bankruptcy imminent
+1058,AWK,2012,0.34077,bankruptcy imminent
+1059,AWK,2014,0.51387,bankruptcy imminent
+1060,AWK,2015,0.54238,bankruptcy imminent
+1061,EQT,2013,2.11206,grey zone
+1062,EQT,2015,1.11148,bankruptcy imminent
+1063,EQT,2014,1.62663,bankruptcy imminent
+1064,AVB,2013,1.39405,bankruptcy imminent
+1065,AVB,2012,1.96942,grey zone
+1066,AVB,2014,2.03533,grey zone
+1067,AVB,2015,2.28965,grey zone
+1068,TSCO,2013,12.76051,safe
+1069,TSCO,2012,5.71473,safe
+1070,TSCO,2014,11.98324,safe
+1071,TSCO,2015,10.33136,safe
+1072,ES,2013,0.71531,bankruptcy imminent
+1073,ES,2012,0.52864,bankruptcy imminent
+1074,ES,2014,0.83027,bankruptcy imminent
+1075,ES,2015,0.82351,bankruptcy imminent
+1076,NTRS,2013,0.26265,bankruptcy imminent
+1077,NTRS,2012,0.25104,bankruptcy imminent
+1078,NTRS,2014,0.26362,bankruptcy imminent
+1079,NTRS,2015,0.26944,bankruptcy imminent
+1080,MO,2013,3.32253,safe
+1081,MO,2012,2.86157,grey zone
+1082,MO,2014,3.79553,safe
+1083,MO,2015,4.43482,safe
+1084,SNA,2016,5.21444,safe
+1085,SNA,2015,4.20128,safe
+1086,HBI,2013,1.80237,bankruptcy imminent
+1087,HBI,2015,1.68962,bankruptcy imminent
+1088,HBI,2016,2.91252,grey zone
+1089,MAR,2013,2.34528,grey zone
+1090,MAR,2015,2.74328,grey zone
+1091,MAR,2014,2.80588,grey zone
+1092,DISCA,2013,2.04352,grey zone
+1093,DISCA,2014,6.8358,safe
+1094,STX,2013,2.62375,grey zone
+1095,STX,2015,2.13512,grey zone
+1096,STX,2014,2.44481,grey zone
+1097,STX,2016,0.36599,bankruptcy imminent
+1098,MAC,2013,0.84853,bankruptcy imminent
+1099,MAC,2012,0.7965,bankruptcy imminent
+1100,MAC,2014,1.46271,bankruptcy imminent
+1101,MAC,2015,1.34826,bankruptcy imminent
+1102,FLS,2013,3.93314,safe
+1103,FLS,2015,2.81244,grey zone
+1104,FLS,2014,3.61602,safe
+1105,DLR,2013,0.90637,bankruptcy imminent
+1106,DLR,2012,1.22733,bankruptcy imminent
+1107,DLR,2014,1.55332,bankruptcy imminent
+1108,DLR,2015,1.39598,bankruptcy imminent
+1109,STT,2013,0.23305,bankruptcy imminent
+1110,STT,2015,0.23757,bankruptcy imminent
+1111,STT,2014,0.2176,bankruptcy imminent
+1112,LNT,2013,0.60478,bankruptcy imminent
+1113,LNT,2012,0.60136,bankruptcy imminent
+1114,LNT,2014,0.65484,bankruptcy imminent
+1115,LNT,2015,0.61288,bankruptcy imminent
+1116,WFC,2013,0.3045,bankruptcy imminent
+1117,WFC,2012,0.27473,bankruptcy imminent
+1118,WFC,2014,0.31016,bankruptcy imminent
+1119,WFC,2015,0.3016,bankruptcy imminent
+1120,IBM,2013,3.45875,safe
+1121,IBM,2012,3.57319,safe
+1122,IBM,2014,3.40939,safe
+1123,IBM,2015,3.44935,safe
+1124,AEP,2013,0.70261,bankruptcy imminent
+1125,AEP,2012,0.66885,bankruptcy imminent
+1126,AEP,2014,0.7649,bankruptcy imminent
+1127,JNPR,2013,2.43757,grey zone
+1128,JNPR,2012,2.23465,grey zone
+1129,JNPR,2014,1.47634,bankruptcy imminent
+1130,JNPR,2015,1.61079,bankruptcy imminent
+1131,UAL,2013,0.5249,bankruptcy imminent
+1132,UAL,2012,0.27271,bankruptcy imminent
+1133,UAL,2014,0.77391,bankruptcy imminent
+1134,UAL,2015,1.23076,bankruptcy imminent
+1135,FIS,2013,1.92899,grey zone
+1136,FIS,2012,1.50451,bankruptcy imminent
+1137,FIS,2014,2.06375,grey zone
+1138,FIS,2015,1.04238,bankruptcy imminent
+1139,AAL,2013,-0.10242,bankruptcy imminent
+1140,AAL,2012,-0.25591,bankruptcy imminent
+1141,AAL,2014,1.02814,bankruptcy imminent
+1142,AAL,2015,1.0856,bankruptcy imminent
+1143,ALK,2013,1.59816,bankruptcy imminent
+1144,ALK,2012,1.17762,bankruptcy imminent
+1145,ALK,2014,2.56678,grey zone
+1146,ALK,2015,3.07139,safe
+1147,ED,2013,0.54769,bankruptcy imminent
+1148,ED,2015,0.54324,bankruptcy imminent
+1149,ED,2014,0.57818,bankruptcy imminent
+1150,YUM,2013,3.31814,safe
+1151,YUM,2012,3.18734,safe
+1152,YUM,2014,3.02702,safe
+1153,YUM,2015,2.93234,grey zone
+1154,XRX,2013,1.37324,bankruptcy imminent
+1155,XRX,2012,1.04868,bankruptcy imminent
+1156,XRX,2014,1.49831,bankruptcy imminent
+1157,XRX,2015,1.28041,bankruptcy imminent
+1158,ORLY,2013,3.30868,safe
+1159,ORLY,2012,3.06453,safe
+1160,ORLY,2014,3.91122,safe
+1161,ORLY,2015,4.50443,safe
+1162,COO,2013,6.42633,safe
+1163,COO,2014,3.47334,safe
+1164,COO,2016,4.03003,safe
+1165,DNB,2013,4.19256,safe
+1166,DNB,2012,3.58523,safe
+1167,DNB,2014,3.88382,safe
+1168,DNB,2015,3.48174,safe
+1169,UHS,2013,2.71431,grey zone
+1170,UHS,2012,2.17018,grey zone
+1171,UHS,2014,3.08809,safe
+1172,UHS,2015,3.25366,safe
+1173,PCAR,2013,1.94162,grey zone
+1174,PCAR,2012,1.70685,bankruptcy imminent
+1175,PCAR,2014,2.25931,grey zone
+1176,PCAR,2015,1.90584,grey zone
+1177,KMX,2013,1.56526,bankruptcy imminent
+1178,KMX,2015,1.53716,bankruptcy imminent
+1179,KMX,2014,1.52483,bankruptcy imminent
+1180,KMX,2016,1.08198,bankruptcy imminent
+1181,RRC,2013,1.93482,grey zone
+1182,RRC,2012,1.58591,bankruptcy imminent
+1183,RRC,2014,1.65522,bankruptcy imminent
+1184,RRC,2015,0.27319,bankruptcy imminent
+1185,VAR,2013,4.40471,safe
+1186,VAR,2015,3.80172,safe
+1187,VAR,2014,4.46335,safe
+1188,VAR,2016,4.08758,safe
+1189,ADSK,2013,3.44088,safe
+1190,ADSK,2015,3.532,safe
+1191,ADSK,2014,4.04083,safe
+1192,ADSK,2016,2.15501,grey zone
+1193,ECL,2013,2.41824,grey zone
+1194,ECL,2012,2.01237,grey zone
+1195,ECL,2014,2.5511,grey zone
+1196,ECL,2015,2.68606,grey zone
+1197,WAT,2015,5.90992,safe
+1198,CI,2013,0.81976,bankruptcy imminent
+1199,CI,2012,0.68111,bankruptcy imminent
+1200,CI,2014,0.81409,bankruptcy imminent
+1201,CI,2015,0.98905,bankruptcy imminent
+1202,CL,2013,6.25863,safe
+1203,CL,2012,4.58424,safe
+1204,CL,2014,6.48171,safe
+1205,CL,2015,6.5587,safe
+1206,APH,2013,2.71235,grey zone
+1207,APH,2012,2.76532,grey zone
+1208,APH,2014,3.97857,safe
+1209,APH,2015,3.86487,safe
+1210,NEM,2013,0.21884,bankruptcy imminent
+1211,NEM,2012,1.57646,bankruptcy imminent
+1212,NEM,2014,0.74831,bankruptcy imminent
+1213,NEM,2015,0.84341,bankruptcy imminent
+1214,SHW,2013,4.07184,safe
+1215,SHW,2012,3.67835,safe
+1216,SHW,2014,5.25443,safe
+1217,SHW,2015,5.41567,safe
+1218,MET,2013,0.11398,bankruptcy imminent
+1219,MET,2012,0.08898,bankruptcy imminent
+1220,MET,2014,0.1361,bankruptcy imminent
+1221,MET,2015,0.13382,bankruptcy imminent
+1222,CFG,2015,0.14902,bankruptcy imminent
+1223,HRL,2013,4.11983,safe
+1224,HRL,2014,4.17269,safe
+1225,HRL,2016,25.13605,safe
+1226,SBUX,2013,3.68164,safe
+1227,SBUX,2015,10.23755,safe
+1228,SBUX,2014,5.45365,safe
+1229,SBUX,2016,7.81525,safe
+1230,PWR,2013,3.67865,safe
+1231,PWR,2012,3.54525,safe
+1232,PWR,2014,3.19905,safe
+1233,PWR,2015,2.11683,grey zone
+1234,RHI,2013,8.31332,safe
+1235,RHI,2015,8.05955,safe
+1236,RHI,2014,9.44524,safe
+1237,AYI,2013,4.00209,safe
+1238,AYI,2015,6.74423,safe
+1239,AYI,2014,4.94292,safe
+1240,AYI,2016,7.35241,safe
+1241,MCHP,2013,3.56988,safe
+1242,MCHP,2015,3.52341,safe
+1243,MCHP,2014,4.38869,safe
+1244,MCHP,2016,2.9912,grey zone
+1245,GILD,2013,7.29506,safe
+1246,GILD,2012,3.83665,safe
+1247,GILD,2014,6.94236,safe
+1248,GILD,2015,4.98766,safe
+1249,LH,2013,2.54485,grey zone
+1250,LH,2012,2.69236,grey zone
+1251,BSX,2013,0.51016,bankruptcy imminent
+1252,BSX,2012,-0.72398,bankruptcy imminent
+1253,BSX,2014,0.44246,bankruptcy imminent
+1254,BSX,2015,0.72187,bankruptcy imminent
+1255,KMI,2015,0.38674,bankruptcy imminent
+1256,NWL,2013,2.61424,grey zone
+1257,NWL,2012,2.12974,grey zone
+1258,NWL,2014,2.35948,grey zone
+1259,NWL,2015,2.20344,grey zone
+1260,EMN,2013,2.11114,grey zone
+1261,EMN,2012,1.45661,bankruptcy imminent
+1262,EMN,2014,1.31146,bankruptcy imminent
+1263,EMN,2015,1.38322,bankruptcy imminent
+1264,HAS,2013,3.58846,safe
+1265,HAS,2015,4.04181,safe
+1266,HAS,2014,3.69741,safe
+1267,ALLE,2015,2.6048,grey zone
+1268,ALLE,2014,2.75166,grey zone
+1269,EIX,2013,0.59102,bankruptcy imminent
+1270,EIX,2012,0.50752,bankruptcy imminent
+1271,EIX,2014,0.72242,bankruptcy imminent
+1272,EIX,2015,0.66606,bankruptcy imminent
+1273,LUV,2013,1.65396,bankruptcy imminent
+1274,LUV,2015,2.60867,grey zone
+1275,LUV,2014,2.4642,grey zone
+1276,DPS,2013,1.8031,bankruptcy imminent
+1277,DPS,2015,2.71655,grey zone
+1278,DPS,2014,2.49003,grey zone
+1279,ROP,2013,3.15663,safe
+1280,ROP,2012,2.93173,grey zone
+1281,ROP,2014,3.80706,safe
+1282,ROP,2015,3.48863,safe
+1283,MA,2013,11.69126,safe
+1284,MA,2015,9.49784,safe
+1285,MA,2014,9.98318,safe
+1286,TJX,2013,5.64478,safe
+1287,TJX,2015,6.39386,safe
+1288,TJX,2014,6.4394,safe
+1289,TJX,2016,6.29275,safe
+1290,VNO,2013,0.77628,bankruptcy imminent
+1291,VNO,2015,0.93764,bankruptcy imminent
+1292,VNO,2014,0.95862,bankruptcy imminent
+1293,WYN,2013,1.28878,bankruptcy imminent
+1294,WYN,2012,1.09158,bankruptcy imminent
+1295,WYN,2014,1.4253,bankruptcy imminent
+1296,WYN,2015,1.3216,bankruptcy imminent
+1297,BK,2013,0.19981,bankruptcy imminent
+1298,BK,2012,0.17884,bankruptcy imminent
+1299,BK,2014,0.20847,bankruptcy imminent
+1300,BK,2015,0.21598,bankruptcy imminent
+1301,VMC,2013,1.4859,bankruptcy imminent
+1302,VMC,2012,1.29413,bankruptcy imminent
+1303,VMC,2014,1.92566,grey zone
+1304,VMC,2015,2.60763,grey zone
+1305,VIAB,2013,2.80865,grey zone
+1306,VIAB,2015,2.1334,grey zone
+1307,VIAB,2014,2.6362,grey zone
+1308,VIAB,2016,2.02285,grey zone
+1309,SCG,2013,0.82564,bankruptcy imminent
+1310,SCG,2012,0.53691,bankruptcy imminent
+1311,SCG,2014,0.86426,bankruptcy imminent
+1312,SCG,2015,0.95169,bankruptcy imminent
+1313,CMG,2013,23.15316,safe
+1314,CMG,2015,17.37756,safe
+1315,CMG,2014,27.04028,safe
+1316,RL,2013,8.51664,safe
+1317,RL,2015,5.96501,safe
+1318,RL,2014,6.9902,safe
+1319,RL,2016,4.57631,safe
+1320,AN,2013,1.77466,bankruptcy imminent
+1321,AN,2015,1.4353,bankruptcy imminent
+1322,AN,2014,1.88311,grey zone
+1323,NTAP,2013,2.37394,grey zone
+1324,NTAP,2015,2.15589,grey zone
+1325,NTAP,2014,2.31405,grey zone
+1326,NTAP,2016,1.23757,bankruptcy imminent
+1327,MCD,2013,5.27686,safe
+1328,MCD,2012,5.08213,safe
+1329,MCD,2014,5.18556,safe
+1330,MCD,2015,4.65628,safe
+1331,NAVI,2015,0.14292,bankruptcy imminent
+1332,HBAN,2013,0.13975,bankruptcy imminent
+1333,HBAN,2012,0.10411,bankruptcy imminent
+1334,HBAN,2014,0.14185,bankruptcy imminent
+1335,HBAN,2015,0.14895,bankruptcy imminent
+1336,PDCO,2013,3.41243,safe
+1337,PDCO,2015,3.52149,safe
+1338,PDCO,2014,3.23216,safe
+1339,PDCO,2016,2.46405,grey zone
+1340,MOS,2013,5.00282,safe
+1341,MOS,2015,2.04003,grey zone
+1342,MOS,2014,2.7413,grey zone
+1343,DOV,2013,3.18379,safe
+1344,DOV,2015,3.11433,safe
+1345,DOV,2014,3.19135,safe
+1346,ANTM,2013,1.2132,bankruptcy imminent
+1347,ANTM,2012,1.02647,bankruptcy imminent
+1348,ANTM,2014,1.33056,bankruptcy imminent
+1349,ANTM,2015,1.39004,bankruptcy imminent
+1350,KSU,2013,2.86544,grey zone
+1351,KSU,2015,1.94249,grey zone
+1352,KSU,2014,2.78088,grey zone
+1353,SPLS,2013,2.34564,grey zone
+1354,SPLS,2015,3.00417,safe
+1355,SPLS,2014,2.87281,grey zone
+1356,SPLS,2016,2.54145,grey zone
+1357,CNC,2013,1.35203,bankruptcy imminent
+1358,CNC,2012,1.19231,bankruptcy imminent
+1359,CNC,2014,1.76507,bankruptcy imminent
+1360,CNC,2015,1.90213,grey zone
+1361,TIF,2013,4.45035,safe
+1362,TIF,2015,4.87675,safe
+1363,TIF,2014,4.92188,safe
+1364,TIF,2016,4.24384,safe
+1365,KR,2013,1.62422,bankruptcy imminent
+1366,KR,2015,1.80431,bankruptcy imminent
+1367,KR,2014,1.53015,bankruptcy imminent
+1368,KR,2016,2.20758,grey zone
+1369,BBBY,2013,6.90112,safe
+1370,BBBY,2015,5.65329,safe
+1371,BBBY,2014,7.11678,safe
+1372,BBBY,2016,5.03179,safe
+1373,PVH,2013,2.2067,grey zone
+1374,PVH,2015,1.75734,bankruptcy imminent
+1375,PVH,2014,1.61615,bankruptcy imminent
+1376,PVH,2016,1.62375,bankruptcy imminent
+1377,WDC,2013,2.85221,grey zone
+1378,WDC,2015,3.56802,safe
+1379,WDC,2014,3.5175,safe
+1380,WDC,2016,0.97325,bankruptcy imminent
+1381,PCG,2013,0.46079,bankruptcy imminent
+1382,PCG,2015,0.5296,bankruptcy imminent
+1383,PCG,2014,0.61385,bankruptcy imminent
+1384,GPC,2013,3.60712,safe
+1385,GPC,2012,3.54957,safe
+1386,GPC,2014,3.78595,safe
+1387,GPC,2015,3.33696,safe
+1388,CHK,2013,0.76418,bankruptcy imminent
+1389,CHK,2012,0.07479,bankruptcy imminent
+1390,CHK,2014,0.90154,bankruptcy imminent
+1391,CHK,2015,-4.5815,bankruptcy imminent
+1392,AON,2013,1.50111,bankruptcy imminent
+1393,AON,2012,1.25305,bankruptcy imminent
+1394,AON,2014,1.5033,bankruptcy imminent
+1395,AON,2015,1.55066,bankruptcy imminent
+1396,DE,2013,1.72867,bankruptcy imminent
+1397,DE,2014,1.70613,bankruptcy imminent
+1398,DE,2016,2.98783,grey zone
+1399,AMT,2013,1.24125,bankruptcy imminent
+1400,AMT,2012,1.92946,grey zone
+1401,AMT,2014,1.53788,bankruptcy imminent
+1402,AMT,2015,1.52054,bankruptcy imminent
+1403,PRU,2013,0.07649,bankruptcy imminent
+1404,PRU,2012,0.00801,bankruptcy imminent
+1405,PRU,2014,0.02082,bankruptcy imminent
+1406,PRU,2015,0.1219,bankruptcy imminent
+1407,CLX,2013,3.19929,safe
+1408,CLX,2015,3.79038,safe
+1409,CLX,2014,3.29273,safe
+1410,CLX,2016,4.28581,safe
+1411,REGN,2013,17.30981,safe
+1412,REGN,2015,18.72331,safe
+1413,REGN,2014,20.03275,safe
+1414,SJM,2013,2.4812,grey zone
+1415,SJM,2015,1.08936,bankruptcy imminent
+1416,SJM,2014,2.20613,grey zone
+1417,SJM,2016,1.48945,bankruptcy imminent
+1418,ADBE,2013,6.22614,safe
+1419,ADBE,2015,7.43378,safe
+1420,ADBE,2014,6.94526,safe
+1421,PBCT,2013,0.19475,bankruptcy imminent
+1422,PBCT,2012,0.20102,bankruptcy imminent
+1423,PBCT,2014,0.18021,bankruptcy imminent
+1424,PBCT,2015,0.17572,bankruptcy imminent
+1425,SYK,2013,4.17034,safe
+1426,SYK,2015,4.31848,safe
+1427,SYK,2014,3.84462,safe
+1428,NUE,2013,2.60178,grey zone
+1429,NUE,2012,2.55511,grey zone
+1430,NUE,2014,2.5228,grey zone
+1431,NUE,2015,2.45631,grey zone
+1432,UNP,2013,2.13804,grey zone
+1433,UNP,2015,2.62857,grey zone
+1434,UNP,2014,3.50317,safe
+1435,VRTX,2013,7.92549,safe
+1436,VRTX,2012,1.98683,grey zone
+1437,VRTX,2014,10.28859,safe
+1438,VRTX,2015,8.67369,safe
+1439,EBAY,2013,2.23539,grey zone
+1440,EBAY,2015,3.42193,safe
+1441,EBAY,2014,1.73514,bankruptcy imminent
+1442,KMB,2013,3.1094,safe
+1443,KMB,2015,2.94997,grey zone
+1444,KMB,2014,3.27651,safe
+1445,WM,2013,1.31249,bankruptcy imminent
+1446,WM,2015,1.73428,bankruptcy imminent
+1447,WM,2014,1.79321,bankruptcy imminent
+1448,GD,2013,2.3169,grey zone
+1449,GD,2015,2.82442,grey zone
+1450,GD,2014,2.54925,grey zone
+1451,WMT,2013,2.43944,grey zone
+1452,WMT,2015,2.82744,grey zone
+1453,WMT,2014,2.4971,grey zone
+1454,WMT,2016,2.56441,grey zone
+1455,MAT,2013,5.34976,safe
+1456,MAT,2012,4.17271,safe
+1457,MAT,2014,3.54406,safe
+1458,MAT,2015,3.12938,safe
+1459,CME,2013,0.69092,bankruptcy imminent
+1460,CME,2012,0.90024,bankruptcy imminent
+1461,CME,2014,0.51452,bankruptcy imminent
+1462,CME,2015,0.57066,bankruptcy imminent
+1463,AAP,2013,2.58765,grey zone
+1464,AAP,2012,2.30289,grey zone
+1465,AAP,2016,2.4588,grey zone
+1466,AAP,2015,2.41354,grey zone
+1467,CHD,2013,2.92373,grey zone
+1468,CHD,2012,2.45408,grey zone
+1469,CHD,2014,2.90336,grey zone
+1470,CHD,2015,3.08863,safe
+1471,PM,2013,4.21917,safe
+1472,PM,2015,4.21125,safe
+1473,PM,2014,4.08172,safe
+1474,UPS,2013,4.01795,safe
+1475,UPS,2012,2.82996,grey zone
+1476,UPS,2014,3.64591,safe
+1477,UPS,2015,3.34113,safe
+1478,O,2013,1.19049,bankruptcy imminent
+1479,O,2012,1.52549,bankruptcy imminent
+1480,O,2014,1.42541,bankruptcy imminent
+1481,O,2015,1.53903,bankruptcy imminent
+1482,BWA,2013,3.64429,safe
+1483,BWA,2015,2.31711,grey zone
+1484,BWA,2014,3.47681,safe
+1485,LKQ,2012,3.52267,safe
+1486,MTD,2013,6.07365,safe
+1487,MTD,2015,7.33691,safe
+1488,MTD,2014,6.9434,safe
+1489,HCP,2013,1.19882,bankruptcy imminent
+1490,HCP,2015,0.92545,bankruptcy imminent
+1491,HCP,2014,1.17401,bankruptcy imminent
+1492,HAL,2013,3.3622,safe
+1493,HAL,2015,1.98579,grey zone
+1494,HAL,2014,3.0273,safe
+1495,PHM,2013,1.67447,bankruptcy imminent
+1496,PHM,2015,1.49695,bankruptcy imminent
+1497,PHM,2014,1.92611,grey zone
+1498,AVY,2013,2.25578,grey zone
+1499,AVY,2015,2.22623,grey zone
+1500,AVY,2016,2.58747,grey zone
+1501,GWW,2013,8.68082,safe
+1502,GWW,2012,7.54455,safe
+1503,GWW,2014,8.57078,safe
+1504,GWW,2015,5.33437,safe
+1505,MHK,2013,2.69661,grey zone
+1506,MHK,2012,2.72916,grey zone
+1507,MHK,2014,2.96555,grey zone
+1508,MHK,2015,6.31258,safe
+1509,ETN,2013,1.87078,grey zone
+1510,ETN,2012,1.06381,bankruptcy imminent
+1511,ETN,2014,1.79645,bankruptcy imminent
+1512,ETN,2015,1.6973,bankruptcy imminent
+1513,WY,2013,1.75924,bankruptcy imminent
+1514,WY,2012,1.36284,bankruptcy imminent
+1515,WY,2014,2.22972,grey zone
+1516,WY,2015,1.87703,grey zone
+1517,CMS,2013,0.48652,bankruptcy imminent
+1518,CMS,2015,0.52425,bankruptcy imminent
+1519,CMS,2014,0.54901,bankruptcy imminent
+1520,LVLT,2013,-0.78463,bankruptcy imminent
+1521,LVLT,2012,-0.92377,bankruptcy imminent
+1522,LVLT,2014,-0.15442,bankruptcy imminent
+1523,LVLT,2015,0.49175,bankruptcy imminent
+1524,ISRG,2013,21.8119,safe
+1525,ISRG,2015,21.99761,safe
+1526,ISRG,2014,21.39197,safe
+1527,AEE,2013,0.61763,bankruptcy imminent
+1528,AEE,2012,0.60039,bankruptcy imminent
+1529,AEE,2014,0.68919,bankruptcy imminent
+1530,AEE,2015,0.65477,bankruptcy imminent
+1531,NKE,2016,8.18479,safe
+1532,QRVO,2016,2.96617,grey zone
+1533,QRVO,2015,6.2077,safe
+1534,PGR,2013,0.98678,bankruptcy imminent
+1535,PGR,2012,0.87973,bankruptcy imminent
+1536,PGR,2014,0.99108,bankruptcy imminent
+1537,PGR,2015,0.94439,bankruptcy imminent
+1538,PNR,2013,2.38562,grey zone
+1539,PNR,2012,1.06553,bankruptcy imminent
+1540,PNR,2014,2.07995,grey zone
+1541,PNR,2015,1.19395,bankruptcy imminent
+1542,BBT,2013,0.2908,bankruptcy imminent
+1543,BBT,2012,0.24594,bankruptcy imminent
+1544,BBT,2014,0.2971,bankruptcy imminent
+1545,BBT,2015,0.27203,bankruptcy imminent
+1546,F,2013,1.47412,bankruptcy imminent
+1547,F,2015,0.57693,bankruptcy imminent
+1548,F,2014,0.87198,bankruptcy imminent
